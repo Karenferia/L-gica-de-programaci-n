@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+Radio
+1
+0
+6
+Altura
+1
+0
+4
+1
+15
+'Ingresa radio'
+5
+1
+5
+Radio
+4
+1
+17
+'Ingresar altura'
+5
+1
+6
+Altura
+6
+1
+4
+Area
+27
+2*3.14*radio*(Altura+Radio)
+4
+1
+4
+Area
+1
