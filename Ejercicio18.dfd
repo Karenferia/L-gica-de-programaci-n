@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+HorasT
+1
+0
+4
+1
+49
+'Digita las horas que estuvo ejerciendo su labor'
+5
+1
+6
+HorasT
+6
+2
+6
+ValorH
+5
+5.531
+7
+ValorTo
+16
+HorasT*ValorH*31
+4
+1
+76
+'Tus horas trabajadas y el valor por hora su salario es de         ',ValorTo
+1

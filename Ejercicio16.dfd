@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+CompraT
+1
+0
+2
+De
+2
+15
+4
+1
+36
+'Digite el valor total del producto'
+5
+1
+7
+CompraT
+6
+2
+2
+De
+14
+CompraT*15/100
+2
+To
+10
+CompraT-De
+4
+1
+69
+'El valor total que debera pagar con el descuento es de       ' ,  To
+1

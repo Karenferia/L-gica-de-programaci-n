@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+C1
+1
+0
+2
+C2
+1
+0
+4
+1
+35
+'Digite el valor del primer cateto'
+5
+1
+2
+C1
+4
+1
+36
+'Digite el valor del segundo cateto'
+5
+1
+2
+C2
+6
+1
+4
+Hipo
+19
+sqrt((C1)^2+(C2^2))
+4
+1
+38
+'El valor de la hipotenusa     ', Hipo
+1
