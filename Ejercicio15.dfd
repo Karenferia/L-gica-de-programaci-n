@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+BaseMa
+1
+0
+6
+BaseMe
+1
+0
+6
+Altura
+1
+0
+4
+1
+34
+'Digite el valor de la base mayor'
+5
+1
+6
+BaseMa
+4
+1
+29
+'Digite el valor de la menor'
+5
+1
+6
+BaseMe
+4
+1
+30
+'Digite el valor de la altura'
+5
+1
+6
+Altura
+6
+1
+1
+A
+24
+(BaseMa+BaseMe)/2*Altura
+4
+1
+33
+'El area del trapecio es     ', A
+1

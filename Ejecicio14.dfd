@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+7
+Salario
+1
+0
+4
+1
+54
+'digite el valor de su salario sin el 30% de aumento '
+5
+1
+7
+Salario
+6
+2
+8
+Aumento 
+12
+salario*0.30
+5
+Pagoc
+15
+Salario+Aumento
+4
+1
+47
+'Tu salario on el 30% de aumento es    ' ,Pagoc
+1
